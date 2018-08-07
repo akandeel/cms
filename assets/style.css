@@ -1,4 +1,10 @@
 .container {
   width: 500px;
-  margin: 0, auto;
+  margin: 0 auto;
+}
+
+body {
+  padding-top: 120px;
+  font-family: ariel;
+  
 }
