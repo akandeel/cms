@@ -1,3 +1,9 @@
+<?php
+
+//include file in this page
+inlcude_once('includes/connection.php');
+?>
+
 <html>
 
   <head>
