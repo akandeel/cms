@@ -7,7 +7,7 @@
 
   <body>
     <div class="container">
-      <a href="index.php" id="symbol">CMS-21iLabs</a>
+      <a href="index.php"?id="symbol">CMS-21iLabs</a>
 
         <ol>
           <li><a href="tshirts.php?id=0">tshirts</a></li>
